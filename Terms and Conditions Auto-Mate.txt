@@ -1,0 +1,30 @@
+Terms and Conditions for Auto-Mate
+Last Updated: 2024-02-23
+Welcome to Auto-Mate! These Terms and Conditions ("Terms") govern your use of the Auto-Mate application and its associated services (collectively, the "Service"), which is owned and operated by Auto-Mate ("Company," "we," "us," or "our"). By accessing or using the Service, you agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms, do not use the Service.
+1. Use of the Service
+Auto-Mate provides a SaaS platform integrating Canva and Make.com to offer mind mapping and automated workflow functionalities ("Service Features"). The Service is available to users who have registered an account and agreed to these Terms.
+1.1 Account Registration
+To access the Service, you must register an account by providing accurate, complete, and current registration information. You are responsible for maintaining the confidentiality of your account and password and for all activities that occur under your account.
+1.2 User Responsibilities
+You agree to use the Service only for lawful purposes and in accordance with these Terms. You will not use the Service to violate any law, contract, intellectual property, or other third-party right, and you will not submit malicious content or interfere with the security or operation of the Service.
+2. Service Features
+2.1 Canva Integration
+The Service allows you to create and customize mind maps using Canva’s design tools. You must comply with Canva's terms of use when using Canva features within the Service.
+2.2 Make.com Integration
+You can automate tasks and workflows directly from mind maps using Make.com. Your use of Make.com through the Service is subject to Make.com's terms of service.
+2.3 OAuth Authentication
+The Service uses OAuth for secure account linking with Canva and Make.com. You authorize us to access and manage your Canva and Make.com accounts as necessary to provide the Service Features.
+3. Intellectual Property Rights
+The Service and its original content, features, and functionality are and will remain the exclusive property of Auto-Mate and its licensors. Your use of the Service does not grant you any ownership rights to the Service or its content.
+4. Termination
+We may terminate or suspend your account and access to the Service immediately, without prior notice or liability, for any reason, including if you breach these Terms.
+5. Limitation of Liability
+The Service is provided "as is" and "as available" without any warranty of any kind. To the maximum extent permitted by law, Auto-Mate disclaims all warranties, express or implied, related to the Service and its use.
+6. Indemnification
+You agree to defend, indemnify, and hold harmless Auto-Mate and its licensee and licensors, and their employees, contractors, agents, officers, and directors, from and against any claims, damages, obligations, losses, liabilities, costs or debt, and expenses arising from your use of and access to the Service, or from or in connection with your violation of these Terms.
+7. Changes to Terms
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms.
+8. Governing Law
+These Terms shall be governed and construed in accordance with the laws of Sweden, without regard to its conflict of law provisions.
+9. Contact Us
+If you have any questions about these Terms, please contact us at Auto-mate@mail.com.
